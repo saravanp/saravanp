@@ -1,16 +1,23 @@
-## Hi there 👋
+# Saravanakumar Periyaswamy
 
-<!--
-**saravanp/saravanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Lead Manager (TLM) in Software Systems Engineering with 20+ years of experience in software development, systems engineering, DevOps, and cloud infrastructure.
 
-Here are some ideas to get you started:
+Focused on engineering leadership, scalable software systems, cloud-native technologies, infrastructure automation, and platform engineering. I enjoy staying hands-on with technology and building practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise & Technical Interests
+
+- **Software Engineering:** Software architecture, systems engineering, application development
+- **DevOps & Platform Engineering:** Kubernetes, CI/CD, infrastructure automation, containerization
+- **Cloud Infrastructure:** AWS, cloud architecture, Terraform
+- **Programming & Automation:** Python, C, Bash, Linux
+
+## Open Source Projects
+
+### [PDFForge](https://github.com/saravanp/PDFForge)
+
+A cross-platform Python application for merging PDF documents and images through CLI and desktop GUI interfaces.
+
+## Connect
+
+- **GitHub:** [@saravanp](https://github.com/saravanp)
+- **LinkedIn:** [Saravanakumar Periyaswamy](https://www.linkedin.com/in/saravanp)
